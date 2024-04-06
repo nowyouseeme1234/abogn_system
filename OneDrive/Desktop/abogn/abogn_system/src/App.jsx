@@ -11,7 +11,7 @@ const App = () => {
   
 <MakelPage/>
 
-    </div>
+    </div> 
   )
 }
 
