@@ -8,9 +8,9 @@ import { FaShapes, FaGear } from "react-icons/fa6";
 
 const Navbar = () => {
     return (
-        <div className=' bg-primary'>
+        <div className=' float-left  bg-primary sm:h-screen'>
             {/* left navbar  */}
-            <div className=' float-left bg-primary h-screen'>
+            <div className="">
                 <a href=""> <img src={logo} alt="logo" className='container p-3' /></a>
                 {/* menu list  */}
                 <h1 className=' font-[poppins] font-bold text-white p-3 text-xl tracking-wider'>

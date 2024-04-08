@@ -3,7 +3,7 @@ import Hompage from './components/Homepage/Hompage'
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-primary h-screen'>
       <Hompage />
     </div>
   )
